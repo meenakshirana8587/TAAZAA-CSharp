@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\bin\Debug\netcoreapp3.1\OverrideStringMethod.exe
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\bin\Debug\netcoreapp3.1\OverrideStringMethod.deps.json
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\bin\Debug\netcoreapp3.1\OverrideStringMethod.runtimeconfig.json
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\bin\Debug\netcoreapp3.1\OverrideStringMethod.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\bin\Debug\netcoreapp3.1\OverrideStringMethod.dll
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\bin\Debug\netcoreapp3.1\OverrideStringMethod.pdb
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.dll
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.pdb
+C:\Users\lenovo\source\repos\OverrideStringMethod\OverrideStringMethod\obj\Debug\netcoreapp3.1\OverrideStringMethod.genruntimeconfig.cache
