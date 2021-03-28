@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\bin\Debug\netcoreapp3.1\LinqLambdacollections.exe
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\bin\Debug\netcoreapp3.1\LinqLambdacollections.deps.json
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\bin\Debug\netcoreapp3.1\LinqLambdacollections.runtimeconfig.json
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\bin\Debug\netcoreapp3.1\LinqLambdacollections.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\bin\Debug\netcoreapp3.1\LinqLambdacollections.dll
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\bin\Debug\netcoreapp3.1\LinqLambdacollections.pdb
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.dll
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.pdb
+C:\Users\lenovo\source\repos\LinqLambdacollections\LinqLambdacollections\obj\Debug\netcoreapp3.1\LinqLambdacollections.genruntimeconfig.cache
