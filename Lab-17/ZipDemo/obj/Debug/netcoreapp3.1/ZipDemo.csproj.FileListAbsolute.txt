@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\bin\Debug\netcoreapp3.1\ZipDemo.exe
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\bin\Debug\netcoreapp3.1\ZipDemo.deps.json
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\bin\Debug\netcoreapp3.1\ZipDemo.runtimeconfig.json
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\bin\Debug\netcoreapp3.1\ZipDemo.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\bin\Debug\netcoreapp3.1\ZipDemo.dll
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\bin\Debug\netcoreapp3.1\ZipDemo.pdb
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.dll
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.pdb
+C:\Users\lenovo\source\repos\ZipDemo\ZipDemo\obj\Debug\netcoreapp3.1\ZipDemo.genruntimeconfig.cache
