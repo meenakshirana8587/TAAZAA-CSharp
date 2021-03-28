@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\CalculatorUnitTest\CalcLib\bin\Debug\CalcLib.dll
+C:\Users\lenovo\source\repos\CalculatorUnitTest\CalcLib\bin\Debug\CalcLib.pdb
+C:\Users\lenovo\source\repos\CalculatorUnitTest\CalcLib\obj\Debug\CalcLib.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CalculatorUnitTest\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CalculatorUnitTest\CalcLib\obj\Debug\CalcLib.dll
+C:\Users\lenovo\source\repos\CalculatorUnitTest\CalcLib\obj\Debug\CalcLib.pdb

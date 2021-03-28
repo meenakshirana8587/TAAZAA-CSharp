@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\bin\Debug\netstandard2.1\Calculator.deps.json
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\bin\Debug\netstandard2.1\Calculator.dll
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\bin\Debug\netstandard2.1\Calculator.pdb
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\obj\Debug\netstandard2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\obj\Debug\netstandard2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\obj\Debug\netstandard2.1\Calculator.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\obj\Debug\netstandard2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\obj\Debug\netstandard2.1\Calculator.dll
+C:\Users\lenovo\source\repos\CalculatorUnitTest\Calculator\obj\Debug\netstandard2.1\Calculator.pdb
