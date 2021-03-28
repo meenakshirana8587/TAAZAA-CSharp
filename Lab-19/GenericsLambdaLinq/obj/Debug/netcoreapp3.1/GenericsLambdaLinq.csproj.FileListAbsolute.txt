@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\bin\Debug\netcoreapp3.1\GenericsLambdaLinq.exe
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\bin\Debug\netcoreapp3.1\GenericsLambdaLinq.deps.json
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\bin\Debug\netcoreapp3.1\GenericsLambdaLinq.runtimeconfig.json
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\bin\Debug\netcoreapp3.1\GenericsLambdaLinq.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\bin\Debug\netcoreapp3.1\GenericsLambdaLinq.dll
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\bin\Debug\netcoreapp3.1\GenericsLambdaLinq.pdb
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.dll
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.pdb
+C:\Users\lenovo\source\repos\GenericsLambdaLinq\GenericsLambdaLinq\obj\Debug\netcoreapp3.1\GenericsLambdaLinq.genruntimeconfig.cache
