@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\genericClass\genericClass\bin\Debug\netcoreapp3.1\genericClass.exe
+C:\Users\lenovo\source\repos\genericClass\genericClass\bin\Debug\netcoreapp3.1\genericClass.deps.json
+C:\Users\lenovo\source\repos\genericClass\genericClass\bin\Debug\netcoreapp3.1\genericClass.runtimeconfig.json
+C:\Users\lenovo\source\repos\genericClass\genericClass\bin\Debug\netcoreapp3.1\genericClass.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\genericClass\genericClass\bin\Debug\netcoreapp3.1\genericClass.dll
+C:\Users\lenovo\source\repos\genericClass\genericClass\bin\Debug\netcoreapp3.1\genericClass.pdb
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.dll
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.pdb
+C:\Users\lenovo\source\repos\genericClass\genericClass\obj\Debug\netcoreapp3.1\genericClass.genruntimeconfig.cache
