@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\bin\Debug\netcoreapp3.1\HelloCsharp.exe
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\bin\Debug\netcoreapp3.1\HelloCsharp.deps.json
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\bin\Debug\netcoreapp3.1\HelloCsharp.runtimeconfig.json
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\bin\Debug\netcoreapp3.1\HelloCsharp.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\bin\Debug\netcoreapp3.1\HelloCsharp.dll
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\bin\Debug\netcoreapp3.1\HelloCsharp.pdb
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.dll
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.pdb
+C:\Users\lenovo\source\repos\HelloCsharp\HelloCsharp\obj\Debug\netcoreapp3.1\HelloCsharp.genruntimeconfig.cache
